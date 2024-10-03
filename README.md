@@ -1,4 +1,4 @@
-# COMP 290 Commands and Referencess
+# COMP 290 Commands and References
 
 Based on popular demand, this short document summarizes the shell commands from **COMP 290** that are useful!
 
